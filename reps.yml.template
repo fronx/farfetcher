@@ -1,0 +1,9 @@
+path:
+  '/path/to/your/reps/'
+all:
+  - origin
+rep1:
+  - remote_a
+  - remote_b
+rep2:
+rep3:
